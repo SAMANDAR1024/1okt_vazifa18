@@ -1,0 +1,102 @@
+* {
+  margin: 0 auto;
+  padding: 0 auto;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(77, 153, 220);
+}
+.asosiy {
+  margin: 50px;
+  background-color: white;
+}
+.navbar1 {
+  display: inline-block;
+  margin: 0 auto;
+  padding: 30px;
+}
+.btn1 {
+  margin-left: 350px;
+  background-color: orange;
+  color: white;
+  border: none;
+  border-radius: 2px;
+  height: 30px;
+}
+.navbar2 {
+  margin-top: 50px;
+  display: inline-block;
+  width: 400px;
+  margin-left: 50px;
+}
+.img55 {
+  width: 400px;
+}
+.btn2 {
+  background-color: orange;
+  color: white;
+  border: none;
+  border-radius: 2px;
+  height: 25px;
+  margin-top: 20px;
+}
+.navbar3 {
+  margin-right: 50px;
+}
+.asosiy2 {
+  display: flex;
+  margin-bottom: 50px;
+}
+.sentr {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.asosiy3 {
+  background-color: rgb(233, 255, 255);
+  border-radius: 5px;
+  width: 1200px;
+  height: 250px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  display: inline-block;
+  margin-left: 110px;
+  display: inline-flex;
+  justify-content: space-around;
+}
+.navbar4 {
+  margin: 0 auto;
+  display: inline-block;
+}
+.img1 {
+  margin-top: 20px;
+
+  width: 100px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.sentr1 {
+  margin-left: 180px;
+  margin-top: 20px;
+}
+.sentr2 {
+  color: rgb(84, 78, 78);
+  margin-top: 20px;
+  margin-left: 180px;
+}
+.navbar66 {
+  display: flex;
+  justify-content: space-around;
+}
+.card {
+  text-align: center;
+  width: 300px;
+}
+.sentr88 {
+  margin: 0 auto;
+  margin-left: 550px;
+  margin-bottom: 90px;
+}
+
+.img99{
+    margin-left: 100px;
+}
